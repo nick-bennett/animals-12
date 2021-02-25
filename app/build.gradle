@@ -81,6 +81,7 @@ dependencies {
     implementation "com.squareup.retrofit2:converter-gson:$retrofitVersion"
     implementation "com.squareup.retrofit2:adapter-rxjava2:$retrofitVersion"
 
+    // Logging interceptor
     implementation 'com.squareup.okhttp3:logging-interceptor:4.9.0'
 
     // Gson (JSON parser) library
